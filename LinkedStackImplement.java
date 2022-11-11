@@ -180,3 +180,85 @@ public class LinkedStackImplement
         } while (ch == 'Y'|| ch == 'y');                 
     }
 }
+/* OUTPUT:-
+
+
+Linked Stack Test
+
+
+Linked Stack Operations
+1. push
+2. pop
+3. peek
+4. check empty
+5. size
+1
+Enter integer element to push
+25
+
+Stack = 25
+
+Do you want to continue (Type y or n)
+
+y
+
+Linked Stack Operations
+1. push
+2. pop
+3. peek
+4. check empty
+5. size
+2
+Popped Element = 25
+
+Stack = Empty
+
+Do you want to continue (Type y or n)
+
+y
+
+Linked Stack Operations
+1. push
+2. pop
+3. peek
+4. check empty
+5. size
+3
+Error : Underflow Exception
+
+Stack = Empty
+
+Do you want to continue (Type y or n)
+
+y
+
+Linked Stack Operations
+1. push
+2. pop
+3. peek
+4. check empty
+5. size
+4
+Empty status = true
+
+Stack = Empty
+
+Do you want to continue (Type y or n)
+
+y
+
+Linked Stack Operations
+1. push
+2. pop
+3. peek
+4. check empty
+5. size
+5
+Size = 0
+
+Stack = Empty
+
+Do you want to continue (Type y or n)
+
+n
+ */
