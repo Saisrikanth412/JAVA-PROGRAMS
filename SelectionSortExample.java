@@ -37,7 +37,8 @@ public class SelectionSortExample
 }  
 
 
-/*OUTPUT
+/*
+1ST OUTPUT
 Before Selection Sort
 9 14 3 2 43 11 58 22 
 After Selection Sort
