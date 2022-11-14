@@ -1,6 +1,7 @@
 /*2.B write a java program to implement  the List ADT using linked lists*/
 
 
+
 import java.util.LinkedList;
 
 class Main
