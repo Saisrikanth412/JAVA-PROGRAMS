@@ -146,9 +146,10 @@ public class BinaryTreeDemo
 {
     public static void main(String [] args)
     {
-        Object arr[] = {'B','G','A','C','D','H','F',
-            null,'E',null,null,null,null,
-            null,null,null,null,null,null};
+        Object arr[] = {'E','C','G','A','D','F','H',
+        null,'B',null,null,null,null,
+        null,null,null,null,null,null};
+
         BinaryTree t = new BinaryTree(arr,arr.length);
         Node root = t.buildTree(0);
         
@@ -177,13 +178,13 @@ public class BinaryTreeDemo
 
 /*  OUTPUT
 
-Recursive Binary Tree Travarsals: 
- inorder :C E G D B H A F 
- preorder :B G C E D A H F 
- postorder :E C D G H F A B 
+ Recursive Binary Tree Travarsals: 
+ inorder :A B C D E F G H 
+ preorder :E C A B D G F H 
+ postorder :B A D C F H G E 
  Non - Recursive Binary Tree Travarsals: 
- inorder :C E G D B H A F 
- preorder :B G C E D A H F 
- postorder :E C D G H F A B 
+ inorder :A B C D E F G H 
+ preorder :E C A B D G F H 
+ postorder :B A D C F H G E 
  
  */
