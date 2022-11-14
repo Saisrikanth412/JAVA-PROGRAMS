@@ -1,4 +1,5 @@
 /*5.A. Write Java programs to implement the Stack ADT using a singly linked list*/
+
 import java.util.*;
  
 /*  Class Node  */
