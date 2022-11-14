@@ -1,6 +1,7 @@
 /*2.A write a java program to implement  the List ADT using Arrays*/
 
 
+
 import java.util.*;  
 public class ALExample 
 {  
