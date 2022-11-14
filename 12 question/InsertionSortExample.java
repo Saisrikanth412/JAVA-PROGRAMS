@@ -1,5 +1,6 @@
  
 /*12.C. Write Java programs for implementing  Insertion sort  */
+
 public class InsertionSortExample 
 {  
     public static void insertionSort(int array[]) 
