@@ -1,4 +1,5 @@
 /*5.B. Write Java programs to implement Queue ADT Using  singly linked list */
+
 import java.util.*;
  
 /*  Class Node  */
