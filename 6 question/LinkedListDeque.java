@@ -1,4 +1,5 @@
 /*6.B. Write Java programs to implement the deque (double ended queue) ADT using Doubly linked list. */
+
 public class LinkedListDeque {
  private Node head;
  private Node tail;
