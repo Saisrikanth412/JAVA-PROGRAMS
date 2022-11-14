@@ -1,4 +1,5 @@
 /*6.A. Write Java programs to implement the deque (double ended queue) ADT using Arrays */
+
 import java.util.*;    
 class Book
  {    
