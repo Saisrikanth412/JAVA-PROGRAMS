@@ -85,7 +85,6 @@ public class KMP_String_Matching {
 /*
 
 
-2ND OUTPUT
 
 Found pattern at index 8
 
