@@ -76,16 +76,14 @@ public class KMP_String_Matching {
     public static void main(String args[])
     {
         String txt = "ABABDABACDABABCABAB";
-        String pat = "CDABABCAB";       /*Found pattern at index 10 1st o/p values */
+        String pat = "CDABABCAB";     
         new KMP_String_Matching().KMPSearch(pat, txt);
     }
 
 }
 
 /*
-1ST OUTPUT
 
-Found pattern at index 10
 
 2ND OUTPUT
 
