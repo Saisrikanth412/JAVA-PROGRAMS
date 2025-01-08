@@ -42,5 +42,4 @@ public static void main(String[] args)
 101 Let us C Yashwant Kanetkar BPB 8
 102 Data Communications & Networking Forouzan Mc Graw Hill 4
 103 Operating System Galvin Wiley 6
-104 Computer Networks Tanenbaum Pearson 4
  */
